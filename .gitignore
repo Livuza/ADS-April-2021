@@ -1,10 +1,9 @@
 /18 Mapbox/logins.json
-/14 Streamlit/Scripts
-/14 Streamlit/Lib
-/14 Streamlit/.idea
-/14 Streamlit/Share
-/14 Streamlit/etc
-/14 Streamlit/pyenv.cfg
+/19 Streamlit/Scripts
+/19 Streamlit/Lib
+/19 Streamlit/.idea
+/19 Streamlit/.gitignore
+/19 Streamlit/pyenv.cfg
 /15 Business Dashboard/Scripts
 /15 Business Dashboard/Lib
 /15 Business Dashboard/.idea
